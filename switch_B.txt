@@ -1,1 +1,50 @@
-Je suis bel et bien le switch B
+Je suis le switch A
+Sur YouTube: 
+
+Nos playlists : https://www.youtube.com/channel/UCX_iiZxUSDrlqrbMoIsPScQ/playlists
+
+Sur UDEMY :
+
+Bénéficie des coupons de réduction pour les cours suivant :
+
+Ansible : https://www.udemy.com/course/ansible-for-networks-automatisation/?referralCode=57E8FB680D27247D5135
+
+docker : https://www.udemy.com/course/docker-pour-les-sysadmin-reseaux-et-devops/?referralCode=8A427A37624B340A5B16
+
+cacti: https://www.udemy.com/course/supervision-dun-systeme-dinformation-avec-cacti/?referralCode=B0439FB1B25369F3F811
+
+Mikrotik: https://www.udemy.com/course/apprendre-a-administrer-un-routeur-mikrotik/?referralCode=CC78093B4C68F6A3954B
+
+Microsoft365: https://www.udemy.com/course/microsoft365-office365/?referralCode=51F78B0FE496CEAC9392
+
+Palo alto: https://www.udemy.com/course/palo-alto/?referralCode=5DAB786BB122C84335F3
+
+proxmox: https://www.udemy.com/course/virtualiser-votre-infrastructure-avec-proxmox-ve-6/?referralCode=5DC4B7342C371FB03BE2
+
+Windows server 2019: https://www.udemy.com/course/administrer-windows-server-2019/?referralCode=51E8FE41CFB837A6BFA5
+
+centreon: https://www.udemy.com/course/superviser-un-systeme-dinformation-avec-centreon/?referralCode=7494E0B3D957C8109D83
+
+zabbix: https://www.udemy.com/course/zabbix-supervision-reseaux-avec-zabbix/?referralCode=4F001BA472E988ADC46E
+
+3cx : https://www.udemy.com/course/3cx-apprendre-l-essentiel/?referralCode=DF1FA3FF1EC4C433308D
+
+pfsense: https://www.udemy.com/course/pfsense-lessentiel/?referralCode=80D3B8F4067B1D530ED6
+
+Window server 2016: https://www.udemy.com/course/apprendre-a-installer-et-administrer-un-serveur-windows/?referralCode=93C4CC1AFD359F749911
+
+GNS3: https://www.udemy.com/course/gns3-lessentiel/?referralCode=45FF58124F7049775AB2
+
+Prometheus : https://www.udemy.com/course/prometheus-p/?referralCode=52725D8B1DED251B9676
+
+Git et Github : https://www.udemy.com/course/git-et-github-pour-les-sysadmin-et-les-developpeurs/?referralCode=6B3248FDEFE63983B8D6
+
+Linux ubuntu : https://www.udemy.com/course/linux-ubuntu-lessentiel-pour-les-sysadmin-valable-2022/?referralCode=6B0ABA3482B21D0E8FB1
+
+vmware esxi: https://www.udemy.com/course/vmware-65-67-70/?referralCode=08B65D59D56C6D5FFC2C
+
+Fortigate: https://www.udemy.com/course/fortigate-firewall-version-703-administration-avancee/?referralCode=9E196254EAE1E061EE39
+
+veeam: https://www.udemy.com/course/veeam-backup-and-replication-2022/?referralCode=3B0CDC7CE5C0FCB9741D
+
+Je dois modifier maintenant comme le cours d'Armel le dit. 
